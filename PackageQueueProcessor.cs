@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace NetProtocol.MessageProcessors
+namespace MessageProcessors
 {
     public sealed class PackageQueueProcessor<T> : IPackageQueueProcessor<T>
     {
