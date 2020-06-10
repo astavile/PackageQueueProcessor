@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace NetProtocol.MessageProcessors
 {
     /// <summary>
-    /// Интерфейс для ассинхронной обработки очереди пакетов
+    /// Интерфейс для асинхронной обработки очереди пакетов
     /// </summary>
     public interface IPackageQueueProcessor<T>
     {
