@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NetProtocol.MessageProcessors
+namespace MessageProcessors
 {
     /// <summary>
     /// Интерфейс для асинхронной обработки очереди пакетов
